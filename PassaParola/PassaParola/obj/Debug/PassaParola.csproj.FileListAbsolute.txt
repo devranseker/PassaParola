@@ -1,0 +1,10 @@
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\bin\Debug\PassaParola.exe.config
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\bin\Debug\PassaParola.exe
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\bin\Debug\PassaParola.pdb
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.exe
+C:\Users\devra\Desktop\C# Projelerim\PassaParola\PassaParola\obj\Debug\PassaParola.pdb
